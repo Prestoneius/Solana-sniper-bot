@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@jup-ag/api": "^6.0.40",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
+    "ws": "^8.18.1"
+  },
+  "name": "finalbot",
+  "version": "1.0.0",
+  "main": "finalBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node finalBot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
